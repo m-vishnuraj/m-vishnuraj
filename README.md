@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Flutter, React JS and Laravel**
 
-- 📫 How to reach me **acappella.studiov@gmail.com**
+- 📫 How to reach me **mvishnurajm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -99,13 +99,3 @@
             height="40" /> </a>
 </p>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnuraj-m-dev&show_icons=true&locale=en&layout=compact"
-        alt="vishnuraj-m-dev" /></p>
-
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=vishnuraj-m-dev&show_icons=true&locale=en"
-        alt="vishnuraj-m-dev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnuraj-m-dev&"
-        alt="vishnuraj-m-dev" /></p>
