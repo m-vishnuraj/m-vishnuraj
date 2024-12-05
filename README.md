@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Flutter, React JS and Laravel**
 
-- 📫 How to reach me **mvishnurajm@gmail.com**
+- 📫 How to reach me **vishnu@fixwaretechnologies.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
